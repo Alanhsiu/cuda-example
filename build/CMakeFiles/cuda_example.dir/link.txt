@@ -1,1 +1,0 @@
-/usr/bin/g++ @CMakeFiles/cuda_example.dir/objects1.rsp CMakeFiles/cuda_example.dir/cmake_device_link.o -o cuda_example @CMakeFiles/cuda_example.dir/linkLibs.rsp -L"/usr/local/cuda/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda/targets/x86_64-linux/lib"
